@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/WEB/ChuckNorris/app/src/main/res/layout/fragment_list.xml" value="0.29528985507246375" />
+        <entry key="..\:/WEB/ChuckNorris/app/src/main/res/layout/item_category.xml" value="0.29528985507246375" />
+        <entry key="..\:/web/ChuckNorris/app/src/main/res/layout/activity_main.xml" value="0.259963768115942" />
+        <entry key="..\:/web/ChuckNorris/app/src/main/res/layout/fragment_joke.xml" value="0.35999999219721035" />
+        <entry key="..\:/web/ChuckNorris/app/src/main/res/layout/fragment_list.xml" value="0.259963768115942" />
+        <entry key="..\:/web/ChuckNorris/app/src/main/res/layout/item_category.xml" value="0.259963768115942" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
